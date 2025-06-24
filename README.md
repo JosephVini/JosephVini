@@ -15,6 +15,6 @@ Sou um desenvolvedor focado em **JavaScript**, **Node.js** e soluções com **bl
 > 
 ## 📫 Como me encontrar
 - Email: sjosevinicius254@gmail.com
-- LinkedIn: [linkedin.com/in/seuperfil](https://www.linkedin.com/in/jose-vinicius-soares-da-silva/)
+- LinkedIn: [José Vinicius](https://www.linkedin.com/in/jose-vinicius-soares-da-silva/)
 
 ---
