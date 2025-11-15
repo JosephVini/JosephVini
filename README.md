@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o José Vinicius
 
-Sou um desenvolvedor focado em **JavaScript**, **Node.js** e soluções com **blockchain**. Atualmente estou desenvolvendo uma blockchain própria.
+Sou um desenvolvedor focado em **JavaScript**, **Node.js** e soluções com **blockchain**.
 
 ## 🛠 Tecnologias
 - 🚀 Node.js, Express.js
